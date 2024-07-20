@@ -1,0 +1,350 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    max-width: 1179px;
+    width: 100%;
+    margin: 0 auto; 
+}
+.navvigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 46px;
+}
+.ota{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 41px;
+}
+.title{
+    align-items: center;
+    width: 107px;
+    margin: 0 auto
+}
+.bola{
+color: #1f1534;
+font-family: "Mulish";
+font-size: 18px;
+font-weight: 200;
+line-height: 23px;
+}
+.doda{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.hero{
+    padding-top: 91px;
+}
+
+.img{
+    width: 609px;
+    margin:0 auto;
+}
+.title1{
+color: #000000;
+font-family: "Mulish";
+font-size: 48px;
+font-weight: 200;
+line-height: 56px;
+padding: 26px;
+width: 421px;
+}
+.title2{
+color: rgb(125, 121, 135);
+font-family: "Mulish";
+font-size: 21px;
+font-weight: 200;
+line-height: 32px;
+padding: 26px;
+width: 440px;
+
+}
+.blue{
+border-radius: 55px;
+background: rgb(69, 143, 246);
+width: 200px;
+display: flex;
+justify-content: flex-end;
+}
+.title3{
+color: #ffffff;
+font-family: "Mulish";
+font-size: 18px;
+font-weight: 200;
+line-height: 23px;
+text-align: center;
+width: 200px;
+margin: 0 auto;
+padding: 14px 37px;
+}
+.a2{
+color: #000000;
+font-family: "Mulish";
+font-size: 36px;
+font-weight: 200;
+line-height: 56px;
+text-align: center;
+}
+.a3{
+color: rgb(125, 121, 135);
+font-family: "Mulish";
+font-size: 18px;
+font-weight: 200;
+line-height: 30px;
+text-align: center;
+padding: 61.81px 0 ;
+width: 960px;
+margin: 0 auto;
+}
+.kub{
+border-radius: 20px;
+background-color:#e7e7e7;
+width: 380px;
+margin: 20px 0;
+transition: 0.5s ease-in-out;
+}
+.kub:hover{
+    background-color: #5a98f2;
+}
+.kub:hover .a4{
+    color: #fff;
+}
+.kub:hover .a5{
+    color: #fff;
+}
+
+.ada{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.a4{
+color: #ffffff;
+font-family: "Mulish";
+font-size: 24px;
+font-weight: 200;
+line-height: 56px;
+padding-left: 41px;
+}
+.rasim{
+    padding: 68px 38px;
+}
+.a5{
+    color: #ffffff  ;
+    font-family: "Mulish";
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 28px;
+    width: 280px;
+    padding-left: 41px; 
+    padding: 1px;
+}
+
+.a4{
+    color: #060404;
+    font-family: "Mulish";
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 56px;
+    padding-left: 41px;
+    }
+
+.a5{
+    color: #7d7987;
+    font-family: "Mulish";
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 28px;
+    width: 280px;
+    padding-left: 41px; 
+    padding: 1pxx;
+}  
+.pr{
+box-sizing: border-box;
+border: 1.4px solid #458ff6;
+border-radius: 55px;
+width: 200px;
+height: 56px;
+display: flex;
+justify-content: center;
+background-color: #ffffff;
+color:#458ff6;
+margin: 0 auto;
+padding: 16px 51px;
+}
+.div__title{
+color: #000000;
+font-family: "Mulish";
+font-size: 48px;
+font-weight: 200;
+line-height: 56px;
+text-align: center;
+padding: 76px 0;
+}
+.ul__bol{
+    width: 440px;
+    padding-left: 112px;
+}
+.ul__bolaa{
+color: #000000;
+font-family: "Mulish";
+font-size: 36px;
+font-weight: 200;
+line-height: 56px;
+width: 424px;
+height: 113px;
+padding: 11px;
+}
+.ul__bola{
+    color: #7d7987;
+    font-family: "Mulish";
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    padding: 62px 0 ;
+}
+.ras{
+    width: 628px;
+    padding-right: 112px;
+    margin: 0 auto;
+
+}
+.u1{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.h2__yos{
+    color: #000000;
+    font-family: "Mulish";
+    font-size: 36px;
+    font-weight: 200;
+    line-height: 56px;
+    width: 446px;
+    padding: 152px 0;
+    margin: 0 auto;
+}
+.li__nevara{
+    width: 380px;
+    background: #ffffff;
+    
+
+}
+.u2{
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.h3__title{
+color: #000000;
+font-family: "Mulish"   ;
+font-size: 21px;
+font-weight: 200;
+line-height: 32px;
+width: 237px;
+}
+.p__title{
+color: #7d7987;
+font-family: "Mulish";
+font-size: 16px;
+font-weight: 200;
+line-height: 28px;
+width: 266px;
+}
+.buu{
+color: #4089ed;
+font-family: "Mulish";
+font-size: 17px;
+font-weight: 200;
+line-height: 28px;
+background-color: transparent;
+border: none;
+}
+.kub2{
+    width: 226px;
+    padding-bottom:30px ;
+    padding-left: 30px;
+    padding-right: 84px;
+    background: rgb(255, 255, 255);
+}
+.buu1{
+    padding-left: 30px;
+    padding-bottom: 30px ;
+    padding-right: 84px;
+    padding-top: 18px;
+}
+.h__ol{
+border: #458ff6 solid 2px;
+border-radius: 50px;
+display: flex;
+justify-content: center;
+width: 200px;
+color: #458ff6;
+font-family: "Mulish";
+font-size: 18px;
+font-weight: 200;
+line-height: 23px;
+text-align: center;
+margin: 0 auto;
+padding: 16px 0;
+background-color: transparent;
+}
+.tashqi{
+    margin: 72px 247px;
+}
+.logo_wrapper{
+    padding-left: 220px;
+    padding-top: 159px;
+    padding-bottom: 131px;
+    padding-right: 994px;
+    width: 386px;
+}
+.footer__wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    background: linear-gradient(211.68deg, #67c3f3 8.549%,rgb(90, 152, 242) 70.494%);
+}
+.p__title1{
+color: #ffffff;
+font-family: "Mulish";
+font-size: 18px;
+font-weight: 200;
+line-height: 28px;
+width:  386px;
+padding: 17px;
+}
+.width{
+    width: 60px;
+    
+}
+.head{
+    align-items: center;
+display: flex;
+width: 642px;
+justify-content: space-between;
+
+}
+
+.li2{
+color: rgb(255, 255, 255);
+font-family: 'Mulish';
+font-size: 18px;
+font-weight: 200;
+line-height: 23px;
+width: 95px;
+}
+
+
+
